@@ -1,1 +1,1 @@
-# bashscript
+# bashscript for pyhton application deployment
