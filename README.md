@@ -1,1 +1,1 @@
-# bashscript for pyhton application deployment
+# bashscript for python application deployment
